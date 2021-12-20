@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient(to left, #b1eaf1, #e089fa);
+}
+.figuras-enserie{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.controls{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boton1{
+    background: url('../imagenes/naruto.png') center;
+    background-size: 100% 100%;
+    border:rgb(10, 10, 10);
+    cursor: pointer;
+    padding: 5px 15px;
+    width: 110px;
+    height: 120px;
+    
+}
+.boton2{
+    background: url('../imagenes/sasuke2.png') center;
+    background-size: 100% 100%;
+    border:rgb(10, 10, 10);
+    cursor: pointer;
+    padding: 5px 15px;
+    width: 110px;
+    height: 120px;
+}
+.boton3{
+    background: url('../imagenes/sakura.png') center;
+    background-size: 100% 100%;
+    border:rgb(10, 10, 10);
+    cursor: pointer;
+    padding: 5px 15px;
+    width: 110px;
+    height: 120px;
+}
+.boton4{
+    background: url('../imagenes/kakashi1.png') center;
+    background-size: 100% 100%;
+    border:rgb(10, 10, 10);
+    cursor: pointer;
+    padding: 5px 15px;
+    width: 110px;
+    height: 120px;
+}
+
